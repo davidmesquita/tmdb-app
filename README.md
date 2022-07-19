@@ -1,12 +1,12 @@
 # App de Listagem de Filmes
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 [ReactJS](https://reactjs.org/)
 
 # Biblioteca de estilização 
 [Sass](https://sass-lang.com/)
 
-#Instalação
+# Instalação
 
 Primeiro clone o repositorio com: 
 ```
